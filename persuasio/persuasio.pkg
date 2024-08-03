@@ -1,5 +1,18 @@
-d 'DEA': Data envelopment analysis
+d 'persuasio': Estimating the Effect of Persuasion Use persuasio With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f aprlb.ado
+f aprlb.sthlp
+f aprub.ado
+f aprub.sthlp
+f calc4persuasio.ado
+f calc4persuasio.sthlp
+f lpr4ytz.ado
+f lpr4ytz.sthlp
+f persuasio.ado
+f persuasio.sthlp
+f persuasio4ytz.ado
+f persuasio4ytz.sthlp
+f persuasio4ytz2lpr.ado
+f persuasio4ytz2lpr.sthlp
+f persuasio4yz.ado
+f persuasio4yz.sthlp
