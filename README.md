@@ -3,6 +3,8 @@ Estimating the Effect of Persuasion Use persuasio With STATA 18
 
 Conduct causal inference on persuasive effects Use persuasio With STATA 18
 
+https://www.youtube.com/watch?v=69xf2-hCquo
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
